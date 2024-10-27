@@ -1,0 +1,3 @@
+Livros que me acompanham sobre o universo da programação e me deram uma boa base para prosseguir, tenho outros que subirei posteriormente. 
+Eu gosto bastante de C# mas me interesso por outras linguagens e por isso procuro sempre dar aquela pincelada em alguns temas para ver se as por exemplo, a sintaxe é parecida entre outras coisas, por exemplo é melhor desenvolver um programa do tipo console que faz xyz ou python...
+Seja feliz, essa é uma pequena contribuição desse eterno aprendiz!
